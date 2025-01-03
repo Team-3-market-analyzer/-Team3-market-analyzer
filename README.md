@@ -2,7 +2,7 @@
 Global Market Trend Analyzer - Infosys Springboard Project 
 
 ## Project Statement:
- # Title: Global Market
+ # Title: Global Market Trend Analyzer
  Build a system to visualize and analyse global market trendsacrossvariousindustries.
  Userscan search for specific industries, companies, or economic indicatorsto view
  detailed analyticsand forecasts. The application should alert userson significant
